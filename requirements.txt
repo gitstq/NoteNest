@@ -1,0 +1,6 @@
+# NoteNest has zero external dependencies!
+# This file is kept for compatibility and future extensions.
+
+# Optional dependencies for enhanced features:
+# rich>=13.0.0  # For beautiful terminal output
+# pygments>=2.15.0  # For syntax highlighting
